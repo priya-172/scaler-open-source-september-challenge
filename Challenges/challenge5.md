@@ -4,8 +4,12 @@ Welcome to the fifth challenge!
 Today's goal is to update your forked repository and then create a Pull Request
 
 ### Pre-requisite:
+<<<<<<< HEAD
 
 1. You should have completed [Challenge 4](https://github.com/scaleracademy/scaler-open-source-september-challenge) before starting this challenge. That means ensure your forked repository is in sync with the latest changes in the main challenge repository. Also, ensure that the new branch that you created in [Challenge 3](https://github.com/scaleracademy/scaler-open-source-september-challenge/blob/main/Challenges/challenge3.md) is also in sync with the latest changes in main challenge repository.
+=======
+1. You should have completed [Challenge 4](https://github.com/scaleracademy/scaler-open-source-september-challenge) before starting this challenge. That means ensure your forked repository is in sync with the latest changes in the main challenge repository. Also, ensure that the new branch that you created in [Challenge 3](https://github.com/scaleracademy/scaler-open-source-september-challenge/blob/main/Challenges/challenge3.md) is also in sync with the latest changes in main challenge repository. 
+>>>>>>> 4899a58 (typo fix)
 
 ### Resources:
 
@@ -42,9 +46,9 @@ github_user_name: YOUR-GITHUB-USERNAME
 ```
 
 <<<<<<< HEAD 6. Submit your Pull Request on the main challenge repository: i.e. https://github.com/scaleracademy/scaler-open-source-september-challenge .
-Resloving merge conflicts
+Resloving merge conflicts for challenge 16
 ======= 6. Submit your Pull Request on the main challenge repository.
-
+Trying for 1 hour
 > > > > > > > 8570df2 (Update challenge5.md)
 
 ### Note

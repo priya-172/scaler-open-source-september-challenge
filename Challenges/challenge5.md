@@ -44,14 +44,23 @@ name: your_name
 github_user_name: YOUR-GITHUB-USERNAME
 ---
 ```
-
+<<<<<<< HEAD
+Resloving merge conflicts for challenge 16
 <<<<<<< HEAD 6. Submit your Pull Request on the main challenge repository: i.e. https://github.com/scaleracademy/scaler-open-source-september-challenge .
 Resloving merge conflicts for challenge 16
-======= 6. Submit your Pull Request on the main challenge repository.
+======= 
+6. Submit your Pull Request on the main challenge repository.
 Trying for 1 hour it is not resolving
 
 > > > > > > > 8570df2 (Update challenge5.md)
 
 ### Note
 
+=======
+6. Submit your Pull Request on the main challenge repository.
+
+
+
+### Note
+>>>>>>> 8570df2 (Update challenge5.md)
 You should also sync your fork on GitHub. After you have synced your local forked repository with the latest changes from the remote main repository, you should push these changes to your fork on GitHub to ensure that your online fork is also up to date. This step is important to make sure your online repository reflects the changes from the main repository before you create a Pull Request in the current challenge. So, both your local and online forks should be in sync with the main repository.
